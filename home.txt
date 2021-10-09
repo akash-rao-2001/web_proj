@@ -1,0 +1,4 @@
+nav: home abt contact blog event
+body: lorem
+card*3: lorem
+footer
